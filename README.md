@@ -1,6 +1,18 @@
-## stance-classification
+## Stance-classification
 
-The stance classification problem is to develop a Deep learning model to classify tweets that are about one of five politically-charged targets: “Atheism”, “the Feminist Movement”, “Climate Change is a Real Concern”, “Legalization of Abortion”, or “Hillary Clinton”. Given the text of a tweet and a target, models must classify the tweet as either FAVOUR or AGAINST, or NEITHER.
+The stance classification problem is to develop a Deep learning model to classify tweets that are about one of five politically-charged targets: 
+
+- Atheism
+- The Feminist Movement
+- Climate Change is a Real Concern
+- Legalization of Abortion
+- Hillary Clinton
+
+Given the text of a tweet and a target, models must classify the stance as either:
+
+- FAVOUR
+- AGAINST
+- NEITHER
 
 ## Dataset
 
