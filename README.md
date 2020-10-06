@@ -17,3 +17,7 @@ Given the text of a tweet and a target, models must classify the stance as eithe
 ## Dataset
 
 The data set, contains a collection of 2,814 training and 1,249 test set tweets. The original dataset is from “Semeval-2016 Task 6: Detecting Stance in Tweets. Saif M. Mohammad et. al. In Proceedings of the International Workshop on Semantic Evaluation (SemEval-16). June 2016.”
+
+## Interactive Visualiation of SemEval-2016 Stance Dataset: [(Link)](http://www.saifmohammad.com/WebPages/StanceDataset.htm)
+
+![Visualization](Visualization.png)
